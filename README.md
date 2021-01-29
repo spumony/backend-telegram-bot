@@ -1,2 +1,2 @@
-# xvent-project
-Event creation &amp; registration application
+# Backend for telegram-bot
+
