@@ -1,0 +1,5 @@
+{
+  "jwtSecret": "mysecrettoken",
+  "telegram-bot-token": "1697091204:AAE-9jHIgA5LtsyYsOQm3JAQoUMbI0RrP3I",
+  "mongoURI": "mongodb+srv://tgbot:445812abc@cluster0.es3em.mongodb.net/tgbot-db?retryWrites=true&w=majority"
+}
